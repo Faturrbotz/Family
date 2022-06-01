@@ -1,7 +1,7 @@
 {
-    "name": "Family",
+    "name": "NaylaCans:)",
     "version": "2.2.5",
-    "description": "Simle Bot WhatsApp with Baileys Multi Device",
+    "description": "●Created By FATURRAHMAN",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -29,16 +29,16 @@
         "stikerin",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/fokusdotid/family-md",
+    "homepage": "https://github.com/Faturrbotz/Family",
     "author": {
-        "name": "Fokus ID"
+        "name": "Faturrbotz"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/fokusdotid/family-md.git"
+        "url": "git+https://github.com/Faturrbotz/Family.git"
     },
     "bugs": {
-        "url": "https://github.com/fokusdotid/family-md/issues"
+        "url": "https://github.com/Faturrbotz/Family/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
