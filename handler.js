@@ -34,13 +34,11 @@ module.exports = {
         global.wm2 = global.data.namabot + ' ' + global.data.owner
         global.wm = namabot + ' ву ƒσкυѕ ι∂'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = 'ʙy Faturr'
         global.kontak2 = [
-        ['6281320170984', '𝘼𝙜𝙪𝙯 𝙁𝙖𝙢𝙞𝙡𝙞𝙖', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'FokusDotId13@gmail.com', true],
-        ['6283823916413', await this.getName('6283823916413@s.whatsapp.net'), 'ᴄꜱ ꜰᴀᴍɪʟy-ʙᴏᴛ', 'sa0066588@gmail.com', true],
-        ['6285157436653', '𝙴𝙽𝙹𝙴𝙻𝙰-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6288276639962', await this.getName('6288276639962@s.whatsapp.net'), 'ᴄꜱ ꜰᴀᴍɪʟy-ʙᴏᴛ', 'khasanahmarifatul28@gmail.com', true],
-        ['6285669524800', await this.getName('6285669524800@s.whatsapp.net'), 'ᴄꜱ ꜰᴀᴍɪʟy-ʙᴏᴛ', 'rykkalieeofficiall@gmail.com', true],
+        ['6283813063969', 'FATURRAHHMANN AFRIZAL', 'Owner Utama', 'affrizal1983a@gmail.com', true],
+        ['62821130544787', await this.getName('6283823916413@s.whatsapp.net'), 'ZallBotZ', 'rizal1983a@gmail.com', true],
+        ['62821464126560', 'NaylaCans:)', 'Bot WhatsApp', 'Nothing!', true],
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
@@ -767,7 +765,7 @@ function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())]
 }
 
-global.thumb = 'https://telegra.ph/file/61f2d6d9694b49a2ce7aa.jpg'
+global.thumb = 'https://telegra.ph/file/38e64f36b90649101124c.jpg'
 
 global.flaaa = [
  'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
